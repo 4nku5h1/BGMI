@@ -20,7 +20,7 @@
         "map":"Erangle",   
         "id":"14545454",
         "password":"14545454",
-        "status": "In Progress",
+        "status": "Upcoming",
         "youtube":"https://www.youtube.com/watch?v=PQaCupFK0pU"
     }
 ] 
